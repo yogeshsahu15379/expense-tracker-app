@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+
+.signup_wrapper .signup_gender{
+  text-align: start;
+}
+.signup_wrapper .signup_button{
+  text-align: end;
+}
+.signup_wrapper .signup_button button{
+  margin-left: 10px;
+}
+.header{
+  text-align: left;
+  color: #084657;
+  margin-left: 20px;
+}
+.signup_wrapper{
+  max-width: 600px;
+  margin: auto;
+}
+.form_title{
+  text-align: left;
+  color: rgb(25, 11, 180);
+}
